@@ -1,3 +1,3 @@
 user.username: AJ
-user.password1: {cipher} 5078f67ddfcf0f371531f9a74f5c8b398b2fb3fc3c734cbd51eff3ef20a82b18
-user.password2: {cipher} 7fd7f2608503cd7070d3e65baeb3b4af462ea6df4b1ae5bbc5b02cadcbc3e73e
+user.password1: '{cipher}5078f67ddfcf0f371531f9a74f5c8b398b2fb3fc3c734cbd51eff3ef20a82b18'
+user.password2: '{cipher}7fd7f2608503cd7070d3e65baeb3b4af462ea6df4b1ae5bbc5b02cadcbc3e73e'
